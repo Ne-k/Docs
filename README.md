@@ -8,6 +8,9 @@ ToD runs on a private hosting server so the bot should be running 24/7, unless I
 Setting up the bot and local hosting is pretty simple, be sure to have `NodeJS 14` installed go into the terminal and type `npm i` and it should install everything else. 
 After that, go into the `config.json` file and fill out the token, bot prefix, etc and you'll be done. Run `node index.js` or `node .` to start the bot. 
 
+> For any questions or concerns, open up an issue, dm Nek#2937, or join the [Discord Server](https://discord.gg/PVC35NbeTD). 
+
+
 #### Image Examples:
 
 > ![Dare](https://user-images.githubusercontent.com/68248147/115130428-96e56100-9fa4-11eb-986d-dc8eb0b3fa0a.png)
