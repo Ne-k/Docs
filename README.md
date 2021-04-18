@@ -11,7 +11,7 @@ After that, go into the `config.json` file and fill out the token, bot prefix, e
 > For any questions or concerns, open up an issue, dm Nek#2937, or join the [Discord Server](https://discord.gg/PVC35NbeTD). 
 
 
-#### Image Examples:
+### Image Examples:
 
 > ![Dare](https://user-images.githubusercontent.com/68248147/115130428-96e56100-9fa4-11eb-986d-dc8eb0b3fa0a.png)
 > 
