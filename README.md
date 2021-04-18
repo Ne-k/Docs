@@ -1,6 +1,3 @@
-> Lmao, you thought I was gonna post [ToD's](https://discord.com/oauth2/authorize?client_id=752306970467237970&scope=bot&permissions=470150368) source code. Anyways, here's this just because I can. 
-> 
-> ![8882bcf327896ab79fb97e85ae63a002](https://user-images.githubusercontent.com/68248147/115131330-280c0600-9fac-11eb-9e3f-cab8d5835271.gif)
 
 # What is ToD?
 ToD stands for Truth or Dare. ToD is a multi-functional bot with different command categories other than truth or dare. ToD is made to help servers by providing fun truth or dare questions, the questions range from hilarious pre-programmed responses such as "Go outside and argue with a tree", to "Take a shot of mustard or ketchup.". If you would like to add more truth or dare responses of your own, [click this google form link.](https://forms.gle/2TPKzDJHghuoZjyx6) If there are any bugs or errors please feel free to join the support server and report it.
