@@ -16,7 +16,20 @@ ToD does **not** store information, such as guild IDs and user IDs because ToD d
 The things that ToD **does collect** is *User defined timezones** and **deleted messages**, but the information is not stored anywhere as an there is **no** database or logging system that will keep the data/deleted messages for a long amount of time. Any and all information that is collected is deleted once the command is finished executing.
 On further note, the developer cannot see any information from any guild, as I said, it is deleted once the command is finishing executing and there is no system that can let the developer see any guild information.
 
-```To make it more clear as bot updates go on, any information and/or data that goes to ToD will NOT be stored anywhere would be deleted once the bot has collected the needed data/information and would NOT be shown to the bot developer. The snipe command operates off of the AUDIT logs so therefore no messages and IDs being stored.```
+**To make it more clear as bot updates go on, any information and/or data that goes to ToD will NOT be stored anywhere would be deleted once the bot has collected the needed data/information and would NOT be shown to the bot developer. The snipe command operates off of the AUDIT logs so therefore no messages and IDs being stored.**
+
+==================================
+
+## Blacklist FAQ:
+
+**Q**: Why am I blacklisted?
+
+**A**: The **main** reasons you can get blacklisted for is abusing ToD's features (such as spamming the `suggest` command}, or using the bot to break Discord's [Terms](https://discord.com/terms) or [Guidelines](https://discord.com/guidelines). The reasons may differ, for a full explanation on why you've been blacklisted, join the [support server](https://discord.gg/PVC35NbeTD) or dm **Nek#2937**.
+
+**Q**: How can I get un-blacklisted?
+
+**A**: You can either dm **Nek#2937** or join the [support server](https://discord.gg/PVC35NbeTD) to appeal. The developers are nice and won't mind lifting your blacklist.
+*More FAQs will be added soon for more information dm **Nek#2937** or join the [support server](https://discord.gg/PVC35NbeTD) *
 
 ## Image Examples:
 
