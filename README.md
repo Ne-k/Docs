@@ -22,14 +22,15 @@ On further note, the developer cannot see any information from any guild, as I s
 
 ## Blacklist FAQ:
 
-**Q**: Why am I blacklisted?
+`Q`: Why am I blacklisted?
 
 **A**: The **main** reasons you can get blacklisted for is abusing ToD's features (such as spamming the `suggest` command}, or using the bot to break Discord's [Terms](https://discord.com/terms) or [Guidelines](https://discord.com/guidelines). The reasons may differ, for a full explanation on why you've been blacklisted, join the [support server](https://discord.gg/PVC35NbeTD) or dm **Nek#2937**.
 
-**Q**: How can I get un-blacklisted?
+`Q`: How can I get un-blacklisted?
 
 **A**: You can either dm **Nek#2937** or join the [support server](https://discord.gg/PVC35NbeTD) to appeal. The developers are nice and won't mind lifting your blacklist.
-*More FAQs will be added soon for more information dm **Nek#2937** or join the [support server](https://discord.gg/PVC35NbeTD) *
+
+*More FAQs will be added soon for concerns or questions, dm **Nek#2937** or join the [support server](https://discord.gg/PVC35NbeTD)*
 
 ## Image Examples:
 
