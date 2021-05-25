@@ -32,7 +32,7 @@ On further note, the developer cannot see any information from any guild, as I s
 
 **A**: Instead of sending the [traditional embed](https://nek-likes-hentai.shanara.host/i/x0kPThmOLz), the bot would just ignore you entirely until you get the blacklist removed. 
 
-`Q23`: Why am I blacklisted?
+`Q3`: Why am I blacklisted?
 
 **A**: The **main** reasons you can get blacklisted for is abusing ToD's features (such as spamming the `suggest` command}, or using the bot to break Discord's [Terms](https://discord.com/terms) or [Guidelines](https://discord.com/guidelines). The reasons may differ, for a full explanation on why you've been blacklisted, join the [support server](https://discord.gg/PVC35NbeTD) or dm **Nek#2937**.
 
