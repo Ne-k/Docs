@@ -30,7 +30,7 @@ On further note, the developer cannot see any information from any guild, as I s
 
 `Q2`: What happens if I get blacklisted?
 
-**A**: Instead of sending the [traditional embed](https://nek-likes-hentai.shanara.host/i/x0kPThmOLz), the bot would just ignore you entirely until you get the blacklist removed. 
+**A**: ToD will send an embed telling you that you've been blacklisted and that you can appeal to get the blacklist lifted, but other than that, the bot would just ignore you entirely. 
 
 `Q3`: Why am I blacklisted?
 
