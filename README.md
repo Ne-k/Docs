@@ -45,3 +45,5 @@ On further note, the developer cannot see any information from any guild, as I s
 > ![Truth](https://user-images.githubusercontent.com/68248147/115130460-da3fcf80-9fa4-11eb-95a7-d19b3f79f557.png)
 > 
 > ![Help](https://user-images.githubusercontent.com/68248147/115130501-25f27900-9fa5-11eb-9cae-90184a6ea39c.png)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H74ID0Y)
