@@ -16,7 +16,7 @@ On further note, the developer cannot see any information from any guild, as I s
 
 ==================================
 
-## Blacklist FAQ:
+# Blacklist FAQ:
 
 `Q1`: What is blacklisting?
 
@@ -38,7 +38,7 @@ On further note, the developer cannot see any information from any guild, as I s
 
 *More FAQs will be added soon*
 
-## Image Examples:
+# Image Examples:
 
 > ![Dare](https://user-images.githubusercontent.com/68248147/115130428-96e56100-9fa4-11eb-986d-dc8eb0b3fa0a.png)
 > 
