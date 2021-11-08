@@ -18,7 +18,7 @@ On further note, the developer **cannot see any information from any guild** (li
 
 --> *For a tl;dr for those who don't want to read that block of text:* **Any data that goes through ToD, either when enabling a feature, or deleted messages, all data of that server will be deleted either when being kicked from a server, or will be deleted altogether in the yearly database wipe. And no data will be kept longer than the time the bot is kept in a server.**
 
-> For any questions or concerns, open up an issue, dm Nek#2937, or join the [Discord Server](https://discord.gg/PVC35NbeTD). 
+> For any questions, concerns or data removal, open up an issue, or dm Nek#2937, or join the [Discord Server](https://discord.gg/PVC35NbeTD). 
 
 
 # Image Examples:
