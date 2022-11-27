@@ -1,5 +1,5 @@
 # Introduction
-> These Terms of Service ("Terms"), which contain and hereby include the Privacy Policy at https://nek.wtf/policy ("Privacy Policy"), constitute a legal agreement between ToD / Phishem ("we," "us," or "our") and you ("you," or "your"). By accessing the website located at https://nek.wtf (the "Site") or interacting with the ToD / Phishem Discord bot (the "Bot", collectively referred to as the "Service"), you agree that you are (i) 13 years of age or older, (ii) if you are the age of majority in your jurisdiction or over, that you have read, understood, and accept to be bound by the Terms, and (iii) if you are between 13 and the
+> These Terms of Service ("Terms"), which contain and hereby include the Privacy Policy at https://github.com/Ne-k/Docs/edit/main/Terms%20of%20Service.md ("Privacy Policy"), constitute a legal agreement between ToD / Phishem ("we," "us," or "our") and you ("you," or "your"). By accessing the website located at https://nek.wtf (the "Site") or interacting with the ToD / Phishem Discord bot (the "Bot", collectively referred to as the "Service"), you agree that you are (i) 13 years of age or older, (ii) if you are the age of majority in your jurisdiction or over, that you have read, understood, and accept to be bound by the Terms, and (iii) if you are between 13 and the
 > We retain the right to revise these Terms at any time, with or without notice, and such changes will take effect immediately, unless otherwise specified. Continued use of the Service will be interpreted as acceptance of the updated Terms. If you disagree with the modifications, your only option is to stop using the Service.
 
 # Rights to use the service
@@ -18,4 +18,4 @@
 > THE SERVICES AND THE SERVICE MATERIALS ARE PROVIDED "AS IS" WITHOUT ANY WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT. WHILE WE TRY TO PROVIDE A GOOD USER EXPERIENCE, TOD OR PHISHEM CANNOT AND DOES NOT REPRESENT OR WARRANT THAT THE SERVICES WILL ALWAYS BE SECURE OR ERROR-FREE, OR THAT THE SERVICES WILL ALWAYS FUNCTION WITHOUT DELAYS, DISRUPTIONS, OR IMPERFECTIONS. THE ABOVE DISCLAIMERS SHALL APPLY TO THE EXTENT PERMITTED BY LAW.
 
 # Contact
-> You can reach me at [Nek#2937](https://discord.com/users/750510159289254008) or at nekk.ng3@gmail.com
+> You can reach me at [Nek#4476](https://discord.com/users/942798261536841730) or at username.lilrice@gmail.com
