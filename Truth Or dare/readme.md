@@ -13,12 +13,10 @@ ToD runs on a private hosting server so the bot should be running 24/7, unless I
 # Private Policy:
 ToD (truth or dare) does **not** store data (Guild IDs and User IDs) longer than the time the bot is kept in a server, to be more clear, the bot will **not** store data of that server and it's members after it's been kicked from the server. Any data that gets stored (like for enabling settings like nsfw truths or dares, or antiscam) in a database **will be deleted** when the option is disabled (which will delete the data permanently) or when the bot leaves a server (which will delete all data of that server from all databases and files upon leaving).
 
-The things that ToD **does collect** is **User defined timezones** and **deleted messages** (which will not be stored for a extended period of time, and will be deleted), but the information is not stored anywhere as an there is **no** database or logging system that will keep the data/deleted messages for a long amount of time. Any and all information that is collected is deleted once the command is finished executing.
+The things that ToD **does collect** is **Guild IDs**, **Guild Names**, **User Names and IDs**, **User defined timezones** and **deleted messages** (which will not be stored for a extended period of time, and will be deleted), Any and all information that is collected is deleted once the command is finished executing.
 On further note, the developer **cannot see any information from any guild** (like messages and whatnot), as I said, it is deleted once the command is finishing executing and there is no system that can let the developer see any guild information.
 
 Side Note: ToD's anti phishing system does not store any data whatsoever, unless you enable the system manually. 
-
---> *For a tl;dr for those who don't want to read that block of text:* **Any data that goes through ToD, either when enabling a feature, or deleted messages, all data of that server will be deleted either when being kicked from a server, or will be deleted altogether in the yearly database wipe. And no data will be kept longer than the time the bot is kept in a server.**
 
 > For any questions, concerns or data removal, open up an issue, or dm Nek#4476, or join the [Discord Server](https://discord.gg/bRtYYHKZgt). 
 
