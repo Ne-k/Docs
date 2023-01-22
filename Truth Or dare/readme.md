@@ -1,7 +1,7 @@
 
   
 # What is ToD?
-The bot ToD stands for Truth or Dare. ToD is a multi-functional bot with different command categories other than truth or dare. ToD is made to help servers by providing fun truth or dare questions, the questions range from hilarious pre-programmed responses such as "Go outside and argue with a tree", to "Take a shot of mustard or ketchup.". If you would like to add more truth or dare responses of your own, [click this google form link.](https://forms.gle/2TPKzDJHghuoZjyx6) If there are any bugs or errors please feel free to join the support server and report it.
+The bot ToD stands for Truth or Dare. ToD is a multi-functional bot with different command categories other than truth or dare. ToD is made to help servers by providing fun truth or dare questions, the questions range from hilarious pre-programmed responses such as "Go outside and argue with a tree", to "Take a shot of mustard or ketchup.". If you would like to add more truth or dare responses of your own, use the /suggest command and follow the prompts If there are any bugs or errors please feel free to join the support server and report it.
 
 
 > ![image](https://discord.boats/api/widget/752306970467237970)
